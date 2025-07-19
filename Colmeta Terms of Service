@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colmeta - Terms of Service</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 30px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .effective-date {
+            background: #ecf0f1;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        .contact {
+            background: #e8f5e8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Colmeta Terms of Service</h1>
+    </div>
+
+    <div class="effective-date">
+        <strong>Effective Date:</strong> July 19, 2025<br>
+        <strong>Last Updated:</strong> July 19, 2025
+    </div>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By accessing or using Colmeta ("the Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Service.</p>
+
+    <h2>2. Description of Service</h2>
+    <p>Colmeta is a social media management platform that helps users manage and optimize their content across multiple social media platforms, including TikTok integration for content sharing and analytics.</p>
+
+    <h2>3. User Accounts</h2>
+    <p>To use certain features of Colmeta, you may be required to create an account. You are responsible for:</p>
+    <ul>
+        <li>Maintaining the confidentiality of your account information</li>
+        <li>All activities that occur under your account</li>
+        <li>Providing accurate and current information</li>
+    </ul>
+
+    <h2>4. TikTok Integration</h2>
+    <p>Colmeta integrates with TikTok services to provide:</p>
+    <ul>
+        <li>Content posting and sharing capabilities</li>
+        <li>User authentication through TikTok Login</li>
+        <li>Analytics and performance data</li>
+        <li>Video embedding features</li>
+    </ul>
+    <p>Your use of TikTok features through Colmeta is also subject to TikTok's Terms of Service.</p>
+
+    <h2>5. User Content</h2>
+    <p>You retain ownership of content you create and share through Colmeta. By using the Service, you grant us a limited license to process, store, and share your content as necessary to provide the Service.</p>
+
+    <h2>6. Prohibited Uses</h2>
+    <p>You agree not to use Colmeta for:</p>
+    <ul>
+        <li>Illegal activities or violation of applicable laws</li>
+        <li>Harassment, abuse, or harmful behavior</li>
+        <li>Spam or unauthorized commercial communications</li>
+        <li>Interference with the Service's operation</li>
+    </ul>
+
+    <h2>7. Privacy</h2>
+    <p>Your privacy is important to us. Please review our Privacy Policy to understand how we collect, use, and protect your information.</p>
+
+    <h2>8. Limitation of Liability</h2>
+    <p>Colmeta is provided "as is" without warranties. We are not liable for any damages arising from your use of the Service, except as required by applicable law.</p>
+
+    <h2>9. Changes to Terms</h2>
+    <p>We may update these Terms from time to time. We will notify users of significant changes through the Service or via email.</p>
+
+    <h2>10. Termination</h2>
+    <p>Either party may terminate the agreement at any time. Upon termination, your access to the Service will cease, though certain provisions will survive termination.</p>
+
+    <h2>11. Governing Law</h2>
+    <p>These Terms are governed by the laws of the jurisdiction where Colmeta operates, without regard to conflict of law principles.</p>
+
+    <div class="contact">
+        <h2>Contact Information</h2>
+        <p>If you have questions about these Terms, please contact us at:</p>
+        <p><strong>Email:</strong> legal@colmeta.com<br>
+        <strong>Address:</strong> [Your Business Address]</p>
+    </div>
+</body>
+</html>
